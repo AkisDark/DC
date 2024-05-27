@@ -1,0 +1,19 @@
+{
+    "name": "akis/dc",
+    "description": "Delivery companies",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "AkisDark",
+            "email": "akis.akka.islam@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Akis\\DC\\": "src/"
+        }
+    }
+}
