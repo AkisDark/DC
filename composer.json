@@ -10,7 +10,9 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "php": ">=8.2"
+    },
     "autoload": {
         "psr-4": {
             "Akis\\DC\\": "src/"
