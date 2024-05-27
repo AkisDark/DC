@@ -9,7 +9,7 @@
             "email": "akis.akka.islam@gmail.com"
         }
     ],
-    "minimum-stability": "stable",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=8.2",
         "illuminate/support": "^10.0|^11.0"
